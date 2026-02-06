@@ -6,6 +6,8 @@
 
 **FR:** Je suis un **Développeur Fullstack** spécialisé dans la création d'applications web fluides et performantes, avec un accent particulier sur l'UI/UX. J'aime transformer des problèmes complexes en expériences simples, esthétiques et interactives. Je prépare actuellement ma Licence en **SIR (Système Informatique Réparti)**.
 
+ [🌐Check Myportfolio](https://my-portfolio-orpin-alpha-83.vercel.app/)
+
 ---
 
 ## 🚀 Tech Stack & Tools / Compétences et Outils
@@ -60,7 +62,7 @@
 
 ---
 
-## [🌐Myportfolio](https://my-portfolio-orpin-alpha-83.vercel.app/)
+
 
 
 
