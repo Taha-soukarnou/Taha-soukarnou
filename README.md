@@ -62,7 +62,7 @@
 
 ---
 
-## 📬 Get in Touch
+# 📬 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soukarnoutaha@gmail.com)
 
