@@ -61,6 +61,14 @@
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats-fast.vercel.app/api?username=Taha-soukarnou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Taha-soukarnou&theme=dark&hide_border=false)
+
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Taha-soukarnou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 # 📬 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:soukarnoutaha@gmail.com)
