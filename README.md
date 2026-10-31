@@ -6,7 +6,7 @@
 
 **FR:** Je suis un **Développeur Fullstack** spécialisé dans la création d'applications web fluides et performantes, avec un accent particulier sur l'UI/UX. J'aime transformer des problèmes complexes en expériences simples, esthétiques et interactives. Je prépare actuellement ma Licence en **SIR (Système Informatique Réparti)**.
 
- [🌐Check Myportfolio](https://my-portfolio-orpin-alpha-83.vercel.app/)
+ [🌐Check Myportfolio](https://tahasoukarnou.vercel.app/)
 
 ---
 
@@ -75,7 +75,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soukarnou-taha-53146b339)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome)](https://my-portfolio-orpin-alpha-83.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome)](https://tahasoukarnou.vercel.app/)
 
 
 
