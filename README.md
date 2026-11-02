@@ -1,24 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Taha%20Soukarnou&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UCA-FSTM%20Graduate&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:16a34a,100:39ff14&height=200&section=header&text=Taha%20Soukarnou&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UCA-FSTM%20Graduate&descAlignY=55&descSize=18" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=60&lines=Hello+World!+I'm+Taha!;Full+Stack+Web+Developer;React+%7C+Laravel+%7C+Spring+Boot;Passionate+About+UI%2FUX+Design;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=60&lines=Hello+World!+I'm+Taha!;Full+Stack+Web+Developer;React+%7C+Laravel+%7C+Spring+Boot;Passionate+About+UI%2FUX+Design;Turning+Ideas+Into+Reality;Always+Learning%2C+Always+Building" alt="Typing Animation" />
 
 <br/>
 
 <a href="https://tahasoukarnou.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/soukarnou-taha-53146b339">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-15803d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:soukarnoutaha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-166534?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Taha-soukarnou&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Taha-soukarnou&label=Profile%20Views&color=16a34a&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -61,6 +61,7 @@ const taha = {
 
   education: {
     degree: "Licence in Systèmes Informatiques Répartis",
+    university: "UCA - FSTM",
     diploma: "Digital Development - Full Stack"
   },
 
@@ -176,11 +177,11 @@ Explore my work, development projects, and technologies through my personal port
 <br/>
 
 <a href="https://tahasoukarnou.vercel.app/">
-  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://github.com/Taha-soukarnou?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-14532d?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
 </a>
 
 </div>
@@ -191,13 +192,13 @@ Explore my work, development projects, and technologies through my personal port
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Taha-soukarnou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=Taha-soukarnou&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Taha-soukarnou&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Taha-soukarnou&theme=dark&hide_border=true&layout=compact&title_color=39ff14&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=Taha-soukarnou&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=Taha-soukarnou&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=16A34A&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
 
 </div>
 
@@ -221,7 +222,7 @@ Explore my work, development projects, and technologies through my personal port
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote"/>
 
 </div>
 
@@ -238,23 +239,23 @@ Je suis ouvert aux opportunités d'apprentissage, de collaboration et de partici
 <br/>
 
 <a href="mailto:soukarnoutaha@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-166534?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/soukarnou-taha-53146b339">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-15803d?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://tahasoukarnou.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories!;Let's+build+something+great!" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories!;Let's+build+something+great!" alt="Footer Animation"/>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,50:16a34a,100:39ff14&height=120&section=footer" alt="Footer"/>
 
 </div>
